@@ -84,13 +84,13 @@ input#first_name, input#last_name, input#email, input#password {
   background: #21b189;
 }
 
-/*h1 {
-    border-bottom: 2px solid #fff;
-    padding-bottom: 16px;
-    max-width: max-content;
+h1 {
+  border-bottom: 2px solid #fff;
+  padding-bottom: 16px;
+  max-width: max-content;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
