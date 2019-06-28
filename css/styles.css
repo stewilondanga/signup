@@ -39,11 +39,11 @@ body {
   border-radius: 5px;
 }
 
-/*.signup__field {
-    padding: 10px 0px;
+.signup__field {
+  padding: 10px 0px;
 }
 
-.signup__field.first {
+/*.signup__field.first {
     width: 49%;
     float: left;
     padding-bottom: 20px
