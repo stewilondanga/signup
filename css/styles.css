@@ -63,13 +63,13 @@ body {
   float: left;
 }
 
-/*input#first_name, input#last_name, input#email, input#password{
+input#first_name, input#last_name, input#email, input#password {
   width: -webkit-fill-available;
   padding: 18px 10px;
   border: 0px;
 }
 
-.signup__button .button{
+/*.signup__button .button{
   width:100%;
   padding: 18px 10px;
   margin-top: 10px;
