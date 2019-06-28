@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -9,7 +9,7 @@ body {
 .my_social {
   position: absolute;
   top: 25px;
-  left: 25px;
+  left: 725px;
 }
 
 .my_social a {
@@ -19,6 +19,84 @@ body {
 
 .my_social a img {
   height: 1.5em;
+}
+
+body{
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+   background-image:url("https://images.unsplash.com/photo-1532347557526-3b3e38ff8a0c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=692aaa7f01d6fa792eba54858a684002&auto=format&fit=crop&w=1350&q=80");
+  background-size: cover;
+}
+
+.form{
+  max-width: 500px;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  width: 100%;
+  margin: 0px auto;
+  padding: 20px 40px 50px;
+  box-shadow: 0px 0px 10px #111;
+background: #2d283e;
+background: -moz-linear-gradient(-45deg, #2d283e 0%, #3d3a49 100%);
+background: -webkit-linear-gradient(-45deg, #2d283e 0%,#3d3a49 100%);
+background: linear-gradient(135deg, #2d283e 0%,#3d3a49 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2d283e', endColorstr='#3d3a49',GradientType=1 );
+border-radius: 5px;
+}
+
+.signup__field {
+    padding: 10px 0px;
+}
+
+.signup__field.first {
+    width: 49%;
+    float: left;
+    padding-bottom: 20px
+
+}
+
+.signup__field.second {
+    width: 49%;
+    float: right;
+    padding-bottom: 20px
+}
+
+.signup__field label{
+  width: 100%;
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-bottom: 10px;
+  float: left;
+}
+
+input#first_name, input#last_name, input#email, input#password{
+  width: -webkit-fill-available;
+  padding: 18px 10px;
+  border: 0px;
+}
+
+.signup__button .button{
+  width:100%;
+  padding: 18px 10px;
+  margin-top: 10px;
+  background: #29d6a6;
+  border: 0px;
+  color: #fff;
+  text-transform: uppercase;
+  transition: ease all 0.5s;
+}
+
+.signup__button .button:hover{
+  background: #21b189;
+}
+
+h1 {
+    border-bottom: 2px solid #fff;
+    padding-bottom: 16px;
+    max-width: max-content;
 }
 
 .containers {
