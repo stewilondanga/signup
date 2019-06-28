@@ -43,14 +43,13 @@ body {
   padding: 10px 0px;
 }
 
-/*.signup__field.first {
-    width: 49%;
-    float: left;
-    padding-bottom: 20px
-
+.signup__field.first {
+  width: 49%;
+  float: left;
+  padding-bottom: 20px
 }
 
-.signup__field.second {
+/*.signup__field.second {
     width: 49%;
     float: right;
     padding-bottom: 20px
