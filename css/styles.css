@@ -19,12 +19,11 @@ body {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-
-.form{
+/*.form{
   max-width: 500px;
   background: rgba(0, 0, 0, 0.5);
   color: #fff;
