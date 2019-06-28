@@ -49,13 +49,13 @@ body {
   padding-bottom: 20px
 }
 
-/*.signup__field.second {
-    width: 49%;
-    float: right;
-    padding-bottom: 20px
+.signup__field.second {
+  width: 49%;
+  float: right;
+  padding-bottom: 20px
 }
 
-.signup__field label{
+/*.signup__field label{
   width: 100%;
   font-size: 14px;
   text-transform: uppercase;
