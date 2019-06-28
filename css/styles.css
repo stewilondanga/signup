@@ -55,7 +55,7 @@ body {
   padding-bottom: 20px
 }
 
-/*.signup__field label{
+.signup__field label {
   width: 100%;
   font-size: 14px;
   text-transform: uppercase;
@@ -63,7 +63,7 @@ body {
   float: left;
 }
 
-input#first_name, input#last_name, input#email, input#password{
+/*input#first_name, input#last_name, input#email, input#password{
   width: -webkit-fill-available;
   padding: 18px 10px;
   border: 0px;
