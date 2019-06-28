@@ -69,8 +69,8 @@ input#first_name, input#last_name, input#email, input#password {
   border: 0px;
 }
 
-/*.signup__button .button{
-  width:100%;
+.signup__button .button {
+  width: 100%;
   padding: 18px 10px;
   margin-top: 10px;
   background: #29d6a6;
@@ -80,7 +80,7 @@ input#first_name, input#last_name, input#email, input#password {
   transition: ease all 0.5s;
 }
 
-.signup__button .button:hover{
+/*.signup__button .button:hover{
   background: #21b189;
 }
 
